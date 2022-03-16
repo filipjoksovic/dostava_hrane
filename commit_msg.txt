@@ -1,0 +1,3 @@
+Logicko brisanje restorana
+Backend izmene kod kontrole pristupa
+Finalni commit
